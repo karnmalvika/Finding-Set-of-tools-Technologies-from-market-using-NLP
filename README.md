@@ -3,7 +3,8 @@ Brief on Project: This capstone project is about understanding the skill sets th
 geographical locations, and domains are looking for in terms of skills. This information could be of great interest for employment skill training 
 organizations both private and government which helps them to curate the most relevant courses that match with industry requirements.
 
-NLP Skills used: NLP applications like Word to vec model, Word embedding, Token classification, Projection/Feature extraction, Recommender system, Word clouds
+**NLP Skills used:***
+NLP applications like Word to vec model, Word embedding, Token classification, Projection/Feature extraction, Recommender system, Word clouds
 
 Scraped job descriptions from a leading job portal i.e. shine.com,
 Used NLP to create a set of tools, technologies, and skills that the market is
